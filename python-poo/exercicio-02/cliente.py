@@ -10,8 +10,8 @@ class Cliente:
 
     ## Definir metodos getter e setter
         
-#joao = Cliente('Joao da Silva', 994056, 1000.00)
+joao = Cliente('Joao da Silva', 994056, 1000.00, 'masculino')
 #maria = Cliente('Maria Silva', 999999, 1000.00)
 
-#print(joao)
+print(joao)
 #print(maria)

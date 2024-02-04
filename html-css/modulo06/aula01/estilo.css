@@ -1,0 +1,15 @@
+.texto{
+    background-color: pink;
+    display: inline;
+}
+
+.link{
+    background-color: pink;
+    display: block;
+}
+
+.link-2{
+    background-color: pink;
+    padding: 15px;
+    display: inline-block;
+}
